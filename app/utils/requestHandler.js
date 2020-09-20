@@ -7,7 +7,7 @@ export default function requestHandler({requestType, action, data}) {
 
     let config = { headers: { authtoken: authToken && authToken.token } }
 
-    return axios[requestType || 'post'](`http://localhost:3000/${action}`, data, config)
+    return axios[requestType || 'post'](`https://react-native-login-server.herokuapp.com/${action}`, data, config)
         .catch(err => {
             if(err.status === 401) {
                 localStorage.removeItem("authToken");
