@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/react-native-login/static/js/app.fa2c9852.chunk.js",
+    "app.js.map": "/react-native-login/static/js/app.fa2c9852.chunk.js.map",
+    "runtime~app.js": "/react-native-login/static/js/runtime~app.9db81b2d.js",
+    "runtime~app.js.map": "/react-native-login/static/js/runtime~app.9db81b2d.js.map",
+    "static/js/2.e8e99d3b.chunk.js": "/react-native-login/static/js/2.e8e99d3b.chunk.js",
+    "static/js/2.e8e99d3b.chunk.js.map": "/react-native-login/static/js/2.e8e99d3b.chunk.js.map",
+    "fonts/AntDesign.ttf": "/react-native-login/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/react-native-login/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/react-native-login/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/react-native-login/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/react-native-login/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/react-native-login/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/react-native-login/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/react-native-login/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/react-native-login/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/react-native-login/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/react-native-login/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/react-native-login/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/react-native-login/favicon-16.png",
+    "favicon-32.png": "/react-native-login/favicon-32.png",
+    "favicon.ico": "/react-native-login/favicon.ico",
+    "index.html": "/react-native-login/index.html",
+    "manifest.json": "/react-native-login/manifest.json",
+    "serve.json": "/react-native-login/serve.json",
+    "static/js/2.e8e99d3b.chunk.js.LICENSE.txt": "/react-native-login/static/js/2.e8e99d3b.chunk.js.LICENSE.txt",
+    "static/media/back-icon-mask.png": "/react-native-login/static/media/back-icon-mask.c0e55859.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.9db81b2d.js",
+    "static/js/2.e8e99d3b.chunk.js",
+    "static/js/app.fa2c9852.chunk.js"
+  ]
+}

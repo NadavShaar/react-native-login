@@ -1,0 +1,1 @@
+"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/react-native-login/expo-service-worker.js",{scope:"/react-native-login/"}).then((function(e){})).catch((function(e){console.info("Failed to register service-worker",e)}))}));
