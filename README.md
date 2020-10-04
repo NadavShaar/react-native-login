@@ -3,4 +3,4 @@
 
 **Live Demo [here](https://nadavshaar.github.io/react-native-login/)**
 
-![Untitled](https://user-images.githubusercontent.com/8030614/93692003-0c17b300-faf6-11ea-91a4-6625e2224a7d.png)
+![login](https://user-images.githubusercontent.com/8030614/95029968-c1c93100-06b4-11eb-9db7-08207f487c04.gif)
